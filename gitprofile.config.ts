@@ -10,25 +10,8 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/',
-  projects: {
-    github: {
-      display: true, // Display GitHub projects?
-      header: 'Github Projects',
-      mode: 'manual', // Mode can be: 'automatic' or 'manual'
-      automatic: {
-        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
-        exclude: {
-          forks: true, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-        },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['AlbertTM8/SDtoUnrealGit', 'AlbertTM8/Animation-Software-Engineering-Project', 'AlbertTM8/Maya-Penrose-Steps-Project', 'AlbertTM8/Crack-Simulation-Hybrid', 'AlbertTM8/Simulation-Bournemouth','AlbertTM8/PipelineandTD','AlbertTM8/Group-Project-Final-Video', 'AlbertTM8/HuntedGameUnreal'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
-    },
-    external: {
+
+  external: {
       header: 'My Other Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
@@ -59,6 +42,24 @@ const CONFIG = {
       ],
     },
   },
+  projects: {
+    github: {
+      display: true, // Display GitHub projects?
+      header: 'Github Projects',
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      automatic: {
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
+        limit: 8, // How many projects to display.
+        exclude: {
+          forks: true, // Forked projects will not be displayed if set to true.
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        },
+      },
+      manual: {
+        // Properties for manually specifying projects
+        projects: ['AlbertTM8/SDtoUnrealGit', 'AlbertTM8/Animation-Software-Engineering-Project', 'AlbertTM8/Maya-Penrose-Steps-Project', 'AlbertTM8/Crack-Simulation-Hybrid', 'AlbertTM8/Simulation-Bournemouth','AlbertTM8/PipelineandTD','AlbertTM8/Group-Project-Final-Video', 'AlbertTM8/HuntedGameUnreal'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      },
+    },
   seo: {
     title: 'Portfolio of Albert Tan-Mulligan',
     description: 'MSC Computer Animation and Visual Effects graduate, technical artist, skilled at coding and 3D Mathematics. Quick, eager learner with strong analytical and creative problem-solving skills. ',
