@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['/AlbertTM8/SDtoUnrealGit', 'AlbertTM8/Animation-Software-Engineering-Project', 'AlbertTM8/Maya-Penrose-Steps-Project', 'AlbertTM8/Crack-Simulation-Hybrid', 'AlbertTM8/Simulation-Bournemouth','AlbertTM8/PipelineandTD','AlbertTM8/Group-Project-Final-Video', 'AlbertTM8/HuntedGameUnreal'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['AlbertTM8/SDtoUnrealGit', 'AlbertTM8/Animation-Software-Engineering-Project', 'AlbertTM8/Maya-Penrose-Steps-Project', 'AlbertTM8/Crack-Simulation-Hybrid', 'AlbertTM8/Simulation-Bournemouth','AlbertTM8/PipelineandTD','AlbertTM8/Group-Project-Final-Video', 'AlbertTM8/HuntedGameUnreal'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
