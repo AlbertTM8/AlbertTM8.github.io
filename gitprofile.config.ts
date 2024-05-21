@@ -46,7 +46,7 @@ const CONFIG = {
         description:
           'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
         imageUrl:
-          'https://drive.google.com/file/d/1vvipvcQ2aWhUN3yVayBArVaFMKl8SrfL/view?usp=drive_link',
+          'https://drive.google.com/file/d/1vvipvcQ2aWhUN3yVayBArVaFMKl8SrfL/view?usp=sharing',
         link: 'https://example.com',
       },
       {
@@ -54,12 +54,12 @@ const CONFIG = {
         description:
           'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
         imageUrl:
-          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.png?raw=true',
         link: 'https://example.com',
       },
       {
         title: 'Fall and Rise Project',
-        description: 'Animation that I directed',
+        description: 'Animation that I directed for BU group project. Also did FX, Lighting, Rendering and Layout',
         imageUrl:
           'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
         link: 'https://example.com',
