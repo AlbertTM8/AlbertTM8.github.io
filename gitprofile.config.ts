@@ -35,15 +35,15 @@ const CONFIG = {
         {
           title: 'Stable Diffusion Texture Map Generator',
           description:
-            'an Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
+            'An Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
           imageUrl:
             'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.png',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Penrose Steps',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'An animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
