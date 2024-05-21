@@ -9,7 +9,9 @@ const CONFIG = {
    */
   base: '/',
 
-  external: {
+  projects: {
+
+      external: {
     header: 'My Other Projects',
     // To hide the `External Projects` section, keep it empty.
     projects: [
@@ -38,8 +40,6 @@ const CONFIG = {
       },
     ],
   },
-
-  projects: {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
