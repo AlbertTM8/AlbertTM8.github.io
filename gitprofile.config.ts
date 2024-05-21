@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'an Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
           imageUrl:
-            'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/photo-grid%20(5).png',
+            'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.png',
           link: 'https://example.com',
         },
         {
