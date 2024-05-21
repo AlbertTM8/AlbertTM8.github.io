@@ -31,15 +31,6 @@ const ExternalProjectCard = ({
                         className: 'mb-2 mx-auto',
                       })}
                     </h2>
-                    <div className="avatar w-full h-full">
-                      <div className="w-24 h-24 mask mask-squircle mx-auto">
-                        {skeleton({
-                          widthCls: 'w-full',
-                          heightCls: 'h-full',
-                          shape: '',
-                        })}
-                      </div>
-                    </div>
                     <div className="mt-2">
                       {skeleton({
                         widthCls: 'w-full',
@@ -53,6 +44,15 @@ const ExternalProjectCard = ({
                         heightCls: 'h-4',
                         className: 'mx-auto',
                       })}
+                    </div>
+                    <div className="avatar w-full h-full mt-4">
+                      <div className="w-36 h-36 mask mask-squircle mx-auto">
+                        {skeleton({
+                          widthCls: 'w-full',
+                          heightCls: 'h-full',
+                          shape: '',
+                        })}
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -96,9 +96,12 @@ const ExternalProjectCard = ({
                   <h2 className="font-medium text-center opacity-60 mb-2">
                     {item.title}
                   </h2>
+                  <p className="mt-2 text-base-content text-opacity-60 text-sm text-justify">
+                    {item.description}
+                  </p>
                   {item.imageUrl && (
-                    <div className="avatar opacity-90">
-                      <div className="w-24 h-24 mask mask-squircle">
+                    <div className="avatar opacity-90 mt-4">
+                      <div className="w-36 h-36 mask mask-squircle">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
@@ -111,9 +114,6 @@ const ExternalProjectCard = ({
                       </div>
                     </div>
                   )}
-                  <p className="mt-2 text-base-content text-opacity-60 text-sm text-justify">
-                    {item.description}
-                  </p>
                 </div>
               </div>
             </div>
