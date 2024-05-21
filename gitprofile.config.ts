@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Stable Diffusion Texture Map Generator',
           description:
-            'An Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
+            'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
           imageUrl:
             'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.png',
           link: 'https://example.com',
@@ -43,7 +43,15 @@ const CONFIG = {
         {
           title: 'Penrose Steps',
           description:
-            'An animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
+            'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Rise and Fall Project',
+          description:
+            'Animation that I directed ',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
