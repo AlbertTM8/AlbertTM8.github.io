@@ -9,36 +9,7 @@ const CONFIG = {
    */
   base: '/',
 
-    external: {
-    header: 'My Projects',
-    // To hide the `External Projects` section, keep it empty.
-    projects: [
-      {
-        title: 'Stable Diffusion Texture Map Generator',
-        description:
-          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
-        imageUrl:
-          'https://drive.google.com/file/d/1vvipvcQ2aWhUN3yVayBArVaFMKl8SrfL/view?usp=drive_link',
-        link: 'https://example.com',
-      },
-      {
-        title: 'Penrose Steps',
-        description:
-          'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
-        imageUrl:
-          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-        link: 'https://example.com',
-      },
-      {
-        title: 'Rise and Fall Project',
-        description: 'Animation that I directed',
-        imageUrl:
-          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-        link: 'https://example.com',
-      },
-    ],
-  },
-  
+
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -66,6 +37,36 @@ const CONFIG = {
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
+        external: {
+    header: 'My Projects',
+    // To hide the `External Projects` section, keep it empty.
+    projects: [
+      {
+        title: 'Stable Diffusion Texture Map Generator',
+        description:
+          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
+        imageUrl:
+          'https://drive.google.com/file/d/1vvipvcQ2aWhUN3yVayBArVaFMKl8SrfL/view?usp=drive_link',
+        link: 'https://example.com',
+      },
+      {
+        title: 'Penrose Steps',
+        description:
+          'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
+        imageUrl:
+          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+        link: 'https://example.com',
+      },
+      {
+        title: 'Fall and Rise Project',
+        description: 'Animation that I directed',
+        imageUrl:
+          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+        link: 'https://example.com',
+      },
+    ],
+  },
+  
   },
 
   seo: {
