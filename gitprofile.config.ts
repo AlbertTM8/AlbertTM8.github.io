@@ -73,7 +73,7 @@ const CONFIG = {
       },
         {
         title: 'Crack Simulation',
-        description: 'Master's Thesis. Generating crack patterns procedurally through hybrid physical and heurisitic approach (Artistic and Mathematical). Based on "Generating Surface Crack Patterns" from UC Berkely.',
+        description: 'Masters Thesis. Generating crack patterns procedurally through hybrid physical and heurisitic approach (Artistic and Mathematical). Based on "Generating Surface Crack Patterns" from UC Berkely.',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144213.png?raw=true',
         link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
