@@ -37,32 +37,53 @@ const CONFIG = {
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-        external: {
+    external: {
     header: 'My Projects',
     // To hide the `External Projects` section, keep it empty.
     projects: [
       {
         title: 'Stable Diffusion Texture Map Generator',
         description:
-          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion)',
+          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion).',
         imageUrl:
-          'https://drive.google.com/file/d/1vvipvcQ2aWhUN3yVayBArVaFMKl8SrfL/view?usp=sharing',
-        link: 'https://example.com',
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.jpg?raw=true',
+        link: 'https://github.com/AlbertTM8/SDtoUnrealGit',
       },
       {
         title: 'Penrose Steps',
         description:
-          'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene',
+          'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene.',
         imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.png?raw=true',
-        link: 'https://example.com',
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20143738.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Maya-Penrose-Steps-Project',
       },
       {
         title: 'Fall and Rise Project',
-        description: 'Animation that I directed for BU group project. Also did FX, Lighting, Rendering and Layout',
+        description: 'Animation that I directed for BU group project. Also did FX, Lighting, Rendering and Layout.',
         imageUrl:
-          'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-        link: 'https://example.com',
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/226188630-830d8cd0-dfa3-43d5-819e-822de9b30b0c.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Group-Project-Final-Video',
+      },
+        {
+        title: 'Animation Software Engineering',
+        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves' by Pixar.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144133.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
+      },
+        {
+        title: 'Crack Simulation',
+        description: 'Master's Thesis. Generating crack patterns procedurally through hybrid physical and heurisitic approach (Artistic and Mathematical). Based on "Generating Surface Crack Patterns" from UC Berkely.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144213.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
+      },
+      {
+        title: 'The Hunted - UE5 Game',
+        description: 'WIP Progress game in Unreal Engine. Procedurally generated infinite maze map and listen server setup.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144320.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
       },
     ],
   },
