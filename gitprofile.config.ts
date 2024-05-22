@@ -66,7 +66,7 @@ const CONFIG = {
       },
         {
         title: 'Animation Software Engineering',
-        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves' by Pixar.',
+        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves" by Pixar.',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144133.png?raw=true',
         link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
