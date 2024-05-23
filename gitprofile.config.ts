@@ -52,7 +52,7 @@ const CONFIG = {
       },
         {
         title: 'Renderman Python ',
-        description: 'Renderman python API to create photorealistic image of a spraypaint can from scratch.',
+        description: 'Renderman python API to create photorealistic image of a spraypaint can from scratch. RenderMan is a photorealistic 3D rendering software produced by Pixar Animation Studios. PBR and OSL Shaders.',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Rendered%20Image.png?raw=true',
         link: 'https://github.com/AlbertTM8/Rendering',
