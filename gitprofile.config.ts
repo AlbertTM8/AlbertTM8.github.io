@@ -49,6 +49,13 @@ const CONFIG = {
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.jpg?raw=true',
         link: 'https://github.com/AlbertTM8/SDtoUnrealGit',
       },
+        {
+        title: 'Renderman Python ',
+        description: 'Renderman python API to create photorealistic image of a spraypaint can from scratch.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/226188630-830d8cd0-dfa3-43d5-819e-822de9b30b0c.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Rendering',
+      },
       {
         title: 'Penrose Steps',
         description:
@@ -57,13 +64,7 @@ const CONFIG = {
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20143738.png?raw=true',
         link: 'https://github.com/AlbertTM8/Maya-Penrose-Steps-Project',
       },
-      {
-        title: 'Fall and Rise Project',
-        description: 'Animation that I directed for BU group project. Also did FX, Lighting, Rendering and Layout.',
-        imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/226188630-830d8cd0-dfa3-43d5-819e-822de9b30b0c.png?raw=true',
-        link: 'https://github.com/AlbertTM8/Group-Project-Final-Video',
-      },
+      
         {
         title: 'Animation Software Engineering',
         description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves" by Pixar.',
@@ -84,6 +85,13 @@ const CONFIG = {
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144320.png?raw=true',
         link: 'https://github.com/AlbertTM8/HuntedGameUnreal',
+      },
+          {
+        title: 'Fall and Rise Project',
+        description: 'Animation that I directed for BU group project. Also did FX, Lighting, Rendering and Layout.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/226188630-830d8cd0-dfa3-43d5-819e-822de9b30b0c.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Group-Project-Final-Video',
       },
     ],
   },
