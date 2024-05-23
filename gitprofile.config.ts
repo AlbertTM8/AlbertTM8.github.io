@@ -28,6 +28,7 @@ const CONFIG = {
         projects: [
           'AlbertTM8/SDtoUnrealGit',
           'AlbertTM8/Animation-Software-Engineering-Project',
+          'AlbertTM8/Rendering',
           'AlbertTM8/Maya-Penrose-Steps-Project',
           'AlbertTM8/Crack-Simulation-Hybrid',
           'AlbertTM8/Simulation-Bournemouth',
@@ -53,7 +54,7 @@ const CONFIG = {
         title: 'Renderman Python ',
         description: 'Renderman python API to create photorealistic image of a spraypaint can from scratch.',
         imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/226188630-830d8cd0-dfa3-43d5-819e-822de9b30b0c.png?raw=true',
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Rendered%20Image.png?raw=true',
         link: 'https://github.com/AlbertTM8/Rendering',
       },
       {
