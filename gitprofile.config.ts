@@ -50,6 +50,20 @@ const CONFIG = {
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.jpg?raw=true',
         link: 'https://github.com/AlbertTM8/TextureFusion',
       },
+              {
+        title: 'Animation Software Engineering',
+        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves" by Pixar.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144133.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
+      },
+              {
+        title: 'Crack Simulation',
+        description: 'Masters Thesis. Generating crack patterns procedurally through hybrid physical and heurisitic approach (Artistic and Mathematical). Based on "Generating Surface Crack Patterns" from UC Berkely.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144213.png?raw=true',
+        link: 'https://github.com/AlbertTM8/Crack-Simulation-Hybrid',
+      },
         {
         title: 'Renderman Python ',
         description: 'Renderman python API to create photorealistic image of a spraypaint can from scratch. RenderMan is a photorealistic 3D rendering software produced by Pixar Animation Studios. PBR and OSL Shaders.',
@@ -66,20 +80,6 @@ const CONFIG = {
         link: 'https://github.com/AlbertTM8/Maya-Penrose-Steps-Project',
       },
       
-        {
-        title: 'Animation Software Engineering',
-        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves" by Pixar.',
-        imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144133.png?raw=true',
-        link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
-      },
-        {
-        title: 'Crack Simulation',
-        description: 'Masters Thesis. Generating crack patterns procedurally through hybrid physical and heurisitic approach (Artistic and Mathematical). Based on "Generating Surface Crack Patterns" from UC Berkely.',
-        imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144213.png?raw=true',
-        link: 'https://github.com/AlbertTM8/Crack-Simulation-Hybrid',
-      },
       {
         title: 'The Hunted - UE5 Game',
         description: 'WIP Progress game in Unreal Engine. Procedurally generated infinite maze map and listen server setup.',
