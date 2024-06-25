@@ -48,7 +48,7 @@ const CONFIG = {
           'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion).',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.jpg?raw=true',
-        link: 'https://github.com/AlbertTM8/SDtoUnrealGit',
+        link: 'https://github.com/AlbertTM8/TextureFusion',
       },
         {
         title: 'Renderman Python ',
