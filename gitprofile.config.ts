@@ -72,6 +72,13 @@ const CONFIG = {
         link: 'https://github.com/AlbertTM8/Rendering',
       },
       {
+        title: 'Houdini Pipeline',
+        description: 'Asset manager plugin for Houdini. Quick and efficient organization of assets between projects.',
+        imageUrl:
+          'https://github.com/AlbertTM8/PipelineandTD/raw/master/Testing.jpg',
+        link: 'https://github.com/AlbertTM8/PipelineandTD',
+      },
+      {
         title: 'Penrose Steps',
         description:
           'Animation made with Maya to create infinitely falling hockey puck; includes a MEL script for creating layout of scene.',
