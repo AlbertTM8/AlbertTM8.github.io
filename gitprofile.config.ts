@@ -52,7 +52,7 @@ const CONFIG = {
       },
               {
         title: 'Animation Software Engineering',
-        description: 'Bezier curve model demo, with pivoting anchor points. Visualization of "Character articulation through Profile Curves" by Pixar.',
+        description: 'Bezier curve model demo, with pivoting anchor points built using test-driven development. Visualization of "Character articulation through Profile Curves" by Pixar.',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot%202024-05-21%20144133.png?raw=true',
         link: 'https://github.com/AlbertTM8/Animation-Software-Engineering-Project',
@@ -110,7 +110,7 @@ const CONFIG = {
     linkedin: 'www.linkedin.com/in/albert-tan-mulligan-a59954183',
     website: 'https://alberttm8.github.io/',
     phone: '07588659665',
-    email: 'alberttm.techart@gmail.com',
+    email: 'tanmulliganalbert@gmail.com',
   },
 
   resume: {
