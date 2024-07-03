@@ -114,7 +114,7 @@ const CONFIG = {
   },
 
   social: {
-    linkedin: 'www.linkedin.com/in/albert-tan-mulligan-a59954183',
+    linkedin: 'albert-tan-mulligan-a59954183',
     website: 'https://alberttm8.github.io/',
     phone: '07588659665',
     email: 'tanmulliganalbert@gmail.com',
