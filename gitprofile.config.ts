@@ -45,10 +45,17 @@ const CONFIG = {
       {
         title: 'Stable Diffusion Texture Map Generator',
         description:
-          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion).',
+          'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion). Built for artists using PySide.',
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/stablediffusionphotos.jpg?raw=true',
         link: 'https://github.com/AlbertTM8/TextureFusion',
+      },
+            {
+        title: 'Houdini Pipeline',
+        description: 'Asset manager plugin for Houdini. Quick and efficient organization of assets between projects.',
+        imageUrl:
+          'https://github.com/AlbertTM8/PipelineandTD/raw/master/Testing.jpg',
+        link: 'https://github.com/AlbertTM8/PipelineandTD',
       },
               {
         title: 'Animation Software Engineering',
@@ -70,13 +77,6 @@ const CONFIG = {
         imageUrl:
           'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Rendered%20Image.png?raw=true',
         link: 'https://github.com/AlbertTM8/Rendering',
-      },
-      {
-        title: 'Houdini Pipeline',
-        description: 'Asset manager plugin for Houdini. Quick and efficient organization of assets between projects.',
-        imageUrl:
-          'https://github.com/AlbertTM8/PipelineandTD/raw/master/Testing.jpg',
-        link: 'https://github.com/AlbertTM8/PipelineandTD',
       },
       {
         title: 'Penrose Steps',
@@ -128,14 +128,16 @@ const CONFIG = {
   skills: [
     'Python',
     'C++',
-    'Houduini',
+    'Houdini',
     'UE5',
-    'Maya',
     'Maya',
     'Unix/Linux',
     'Qt/PySide6',
     'Git',
     'Diffusers',
+    'Test Driven Development',
+    'Animation Production Pipelines',
+    
   ],
 
   experiences: [
