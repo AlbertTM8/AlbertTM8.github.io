@@ -43,6 +43,14 @@ const CONFIG = {
     // To hide the `External Projects` section, keep it empty.
     projects: [
       {
+        title: 'TextureDiffusion3D (TD3D)',
+        description:
+          'Advanced Unreal Engine plugin bridging 3D environments with Stable Diffusion. Features multi-camera projection mapping, deep ComfyUI integration, and automated texture blending (Base Color, Normals, Roughness) directly onto meshes.',
+        imageUrl:
+          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/Screenshot 2026-03-25 145448.png?raw=true',
+        link: 'https://github.com/AlbertTM8/TD3D',
+      },
+      {
         title: 'Human Procedural Animations',
         description:
           'Using Unreal Engine Control Rig to create flexible and convenient procedural animation for humans',
