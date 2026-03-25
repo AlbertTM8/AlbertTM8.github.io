@@ -51,14 +51,6 @@ const CONFIG = {
         link: 'https://github.com/AlbertTM8/TD3D',
       },
       {
-        title: 'Human Procedural Animations',
-        description:
-          'Using Unreal Engine Control Rig to create flexible and convenient procedural animation for humans',
-        imageUrl:
-          'https://github.com/AlbertTM8/AlbertTM8.github.io/blob/main/widen_1220x0.png?raw=true',
-        link: 'https://github.com/AlbertTM8/ProceduralAnimDemos',
-      },
-      {
         title: 'Stable Diffusion Texture Map Generator',
         description:
           'Unreal plug-in for creating texture maps through AI diffusion models (Stable Diffusion). Built for artists using PySide.',
