@@ -175,7 +175,7 @@ const CONFIG = {
     },
     {
       institution: 'University of Leeds',
-      degree: 'Beng Mechatronics and Robotics',
+      degree: 'BEng Mechatronics and Robotics',
       from: '2018',
       to: '2021',
     },
